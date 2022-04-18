@@ -5,3 +5,26 @@
     background-color: yellow;
     height: 65px;
 } */
+.pongDIv{
+    
+    position: relative;
+    justify-content: center;
+    text-align: center;
+    height: 200px;
+}
+.Text{
+    position: relative;
+    justify-content: center;
+    text-align: left;
+    margin-left: 30vw;
+    height: 200px; 
+}
+.back{
+    position: absolute;
+    text-align: left;
+    margin-left: 60vw;
+
+    bottom: 0;
+    height: 50px;
+    color:turquoise;
+}
